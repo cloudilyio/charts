@@ -11,7 +11,7 @@ metadata:
   labels:
 {{ include "nexus.labels" . | indent 4 }}
 spec:
-  backoffLimit: 5
+  backoffLimit: 7
   template:
     metadata:
       name: {{ template "nexus.fullname" . }}-initpwd
