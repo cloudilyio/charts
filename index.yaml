@@ -3,9 +3,9 @@ entries:
   sonatype-nexus:
   - apiVersion: v1
     appVersion: 3.33.0
-    created: "2021-10-19T23:11:12.504642786Z"
+    created: "2021-10-19T23:40:16.279543798Z"
     description: Sonatype Nexus is an open source repository manager
-    digest: 36630c8146035080f68dc7096074ce1b5f499a79ab706764a820a45a110c0c38
+    digest: aef9856b112caa1e40b2ce388de45c88572ff0309d5584c291308e645a3b7a67
     home: https://www.sonatype.com/nexus-repository-oss
     icon: https://www.sonatype.com/hubfs/2021%20Design%20System/Logo_vert@2x.png
     keywords:
@@ -28,6 +28,6 @@ entries:
     - https://github.com/travelaudience/docker-nexus-backup
     - https://github.com/dbccompany/docker-nexus-backup
     urls:
-    - https://github.com/cloudilyio/charts/releases/download/sonatype-nexus-5.3.4/sonatype-nexus-5.3.4.tgz
-    version: 5.3.4
-generated: "2021-10-19T23:11:12.504649486Z"
+    - https://github.com/cloudilyio/charts/releases/download/sonatype-nexus-5.3.5/sonatype-nexus-5.3.5.tgz
+    version: 5.3.5
+generated: "2021-10-19T23:40:16.279550199Z"
